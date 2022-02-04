@@ -1,0 +1,48 @@
+
+.purple {
+  color: white!important;
+  background-color: #57765A !important;
+}
+
+
+.white{ 
+  color: white;
+  opacity: 0.5;
+}
+
+.li{
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+
+.li2{
+padding: 10px;
+  list-style-type: none;
+  margin: 0;
+}
+.a{
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+
+.content{
+text-align: center;
+font-family: "Montserrat";
+    padding: 30px;
+    width: auto;
+    height: 100vh;
+    background-color: #FFFAF0;
+}
+
+.myPadding{
+  padding-bottom: 30px;
+}
+
+.transBack{
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}
+ 
